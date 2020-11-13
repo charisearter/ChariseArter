@@ -4,7 +4,7 @@ My name is Charise. I am a Full Stack Web Developer that is passionate about com
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on overhauling my whole portfolio and getting better at designing the back-end.
+- 🔭 I’m currently working on overhauling my whole portfolio using React and getting better at designing the back-end.
 - 🌱 I’m currently learning AWS.
 - 💬 Ask me about the best places to stay or eat in South Korea.
 - 📫 How to reach me: [@ChariseArter](https://twitter.com/ChariseArter) or [Charise Arter on Linkedin](https://www.linkedin.com/in/charisearter/)
