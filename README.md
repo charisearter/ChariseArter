@@ -8,6 +8,5 @@ Here are some ideas to get you started:
 - 🌱 Learning GraphQL to build my app.
 - 💬 My goal is to get a remote job that allows me to travel while keeping the same job.
 - 📫 How to reach me: [@ChariseArter](https://twitter.com/ChariseArter) or [Charise Arter on Linkedin](https://www.linkedin.com/in/charisearter/)
-- 🧿 My [portfolio](https://charisearter.com) 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like to read books, read and draw webtoons and travel.
